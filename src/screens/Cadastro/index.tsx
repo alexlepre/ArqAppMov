@@ -30,7 +30,7 @@ import { KeyboardAwareScrollView } from "react-native-keyboard-aware-scroll-view
 
 import { RootTabParamList } from "../../router";
 import BancoModel from "../../models/Banco";
-import fetchBanco from "../../controllers/BancoContoller";
+import fetchBanco from "../../controllers/BancoController";
 import fetchCep from "../../controllers/CepController";
 import { Input } from "../../components/Input";
 import { ExcluirItemDialog } from "../../components/Dialog";

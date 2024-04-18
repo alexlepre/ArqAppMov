@@ -1,4 +1,4 @@
-# Aplicativo de cadastro de usuários e bancos (Aluno: Thiago Augusto de Souza).
+# Aplicativo de cadastro de usuários e bancos.
 
 Projeto final da disciplina de Arquitetura para Aplicações Móveis do curso de Pós graduação em Engenharia de Software da PUC Minas.
 
